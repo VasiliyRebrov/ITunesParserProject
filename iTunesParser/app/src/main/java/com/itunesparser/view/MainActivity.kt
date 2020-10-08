@@ -25,7 +25,7 @@ import java.io.Serializable
 
 class MainActivity : AppCompatActivity() {
     private val viewModel: MainViewModel by viewModels()
-    var lastToastEvent: String? = null
+    private var lastToastEvent: String? = null
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         menuInflater.inflate(R.menu.menu_main, menu)
