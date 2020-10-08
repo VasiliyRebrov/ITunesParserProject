@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ITunesParser</string>
+    <string name="cleat_history_action">clear history</string>
+    <string name="external_link_action">Open</string>
+    <string name="item_album_description">%1$s %2$s tracks: %3$s</string>
+    <string name="album_description">%1$s %2$s %3$s</string>
+    <string name="album_price">%1$s %2$s</string>
+</resources>
